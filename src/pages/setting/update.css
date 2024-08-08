@@ -1,0 +1,14 @@
+
+#u1{
+    margin-top:60px;
+    margin-left: 550px;
+  
+}
+#u1 input{
+    width: 150px;
+    height: 30px;
+    border-radius: 50px 50px 50px 50px
+}
+#u1 button{
+    width: 250px;
+}

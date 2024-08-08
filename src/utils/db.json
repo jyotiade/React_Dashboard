@@ -1,0 +1,101 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "registration": [
+    {
+      "name": "Jyoti Ade",
+      "email": "jyoti@gmail.com",
+      "mobile": "02434678899",
+      "img": "",
+      "password": "1010",
+      "id": "1"
+    },
+    {
+      "name": "Jyoti Ade",
+      "email": "viti1010@gmail.com",
+      "mobile": "08756796966",
+      "img": "",
+      "password": "12345",
+      "id": "3"
+    },
+    {
+      "id": "60ee",
+      "name": "aditya kumar",
+      "email": "adityakr2019@gmail.com",
+      "mobile": "8873638109",
+      "img": "",
+      "password": "aditya1"
+    }
+  ],
+  "customers": [
+    {
+      "name": "Jyoti Ade",
+      "email": "jyoti@gmail.com",
+      "money": "1000",
+      "status": "booked",
+      "date": "2024-03-29T15:44",
+      "month": "2024-07",
+      "id": "7"
+    },
+    {
+      "name": "Jyoti Ade",
+      "email": "pooja@gmail.com",
+      "money": "1000",
+      "status": "booked",
+      "date": "2024-02-22T00:15",
+      "month": "2024-08",
+      "id": "8"
+    },
+    {
+      "name": "pooja",
+      "email": "viti1010@gmail.com",
+      "money": "1000",
+      "status": "booked",
+      "date": "2024-02-24T12:44",
+      "month": "2024-07",
+      "id": "9"
+    },
+    {
+      "name": "viti",
+      "email": "viti1010@gmail.com",
+      "money": "3445",
+      "status": "on delivery",
+      "date": "2024-03-21T15:01",
+      "month": "2024-07",
+      "id": "11"
+    },
+    {
+      "name": "viti",
+      "email": "viti1010@gmail.com",
+      "money": "",
+      "status": "delivered",
+      "date": "2024-03-28T15:43",
+      "month": "2024-06",
+      "id": "12"
+    },
+    {
+      "name": "viti",
+      "email": "jyoti@gmail.com",
+      "money": "1000",
+      "status": "delivered",
+      "date": "2024-03-21T18:04",
+      "month": "2024-07",
+      "id": "13"
+    }
+  ]
+}
